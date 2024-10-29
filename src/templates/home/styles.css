@@ -1,0 +1,17 @@
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    min-height: 100vh;
+    background-color: lightgray;
+    padding: 30px;
+}
+
+.container input {
+    height: 25px;
+    width: 40%;
+    margin-bottom: 40px;
+    background-color: transparent;
+    outline: none;
+    border: 1px solid black;
+    border-radius: 5px;
+}
