@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ReactJS-NextJS/static/css/main.847ea0e0.css",
+    "main.js": "/ReactJS-NextJS/static/js/main.8f6562a4.js",
+    "index.html": "/ReactJS-NextJS/index.html",
+    "main.847ea0e0.css.map": "/ReactJS-NextJS/static/css/main.847ea0e0.css.map",
+    "main.8f6562a4.js.map": "/ReactJS-NextJS/static/js/main.8f6562a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.847ea0e0.css",
+    "static/js/main.8f6562a4.js"
+  ]
+}
