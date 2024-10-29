@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/build/static/css/main.847ea0e0.css",
-    "main.js": "/build/static/js/main.8f6562a4.js",
-    "index.html": "/build/index.html",
-    "main.847ea0e0.css.map": "/build/static/css/main.847ea0e0.css.map",
-    "main.8f6562a4.js.map": "/build/static/js/main.8f6562a4.js.map"
+    "main.css": "/ReactJS-NextJS/static/css/main.847ea0e0.css",
+    "main.js": "/ReactJS-NextJS/static/js/main.8f6562a4.js",
+    "index.html": "/ReactJS-NextJS/index.html",
+    "main.847ea0e0.css.map": "/ReactJS-NextJS/static/css/main.847ea0e0.css.map",
+    "main.8f6562a4.js.map": "/ReactJS-NextJS/static/js/main.8f6562a4.js.map"
   },
   "entrypoints": [
     "static/css/main.847ea0e0.css",
